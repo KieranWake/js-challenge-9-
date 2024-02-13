@@ -11,4 +11,11 @@ function countTrue(arr) {
     //conditional statment to determine returned value of 'trues' 
     //look into the filter and reduce methods. 
     //bring it together. 
+
+    let result = ''; 
+
+    for (let i = 0; i > 10; i++) {
+        arr = result; 
+        
+    }
 }
