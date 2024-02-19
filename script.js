@@ -19,3 +19,5 @@ function countTrue(arr) {
     // Return the count of true values
     return trueCount;
 }
+
+
